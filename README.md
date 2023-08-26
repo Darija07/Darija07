@@ -40,7 +40,7 @@ I am frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/tree/master/icons/angularjs/angularjs-original.svg" title="angular.js"  alt="angular js" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular.js"  alt="angular js" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
